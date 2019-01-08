@@ -1,0 +1,22 @@
+{
+  "name": "sunmoon",
+  "version": "1.0.0",
+  "description": "Calculates sun and moon position and other clalcs.",
+  "main": "snmn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computerchi/SunMoon.git"
+  },
+  "author": "Ali Mahdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/computerchi/SunMoon/issues"
+  },
+  "homepage": "https://github.com/computerchi/SunMoon#readme",
+  "dependencies": {
+    "suncalc2": "^1.8.1"
+  }
+}
